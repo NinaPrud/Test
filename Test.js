@@ -1,5 +1,5 @@
 let a = "Hi, Nina!"
 let b = "How are you?"
-let c = "Fine!"
+let c = "ok"
 
 console.log(a)
